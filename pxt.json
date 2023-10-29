@@ -3,7 +3,10 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "v3": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.23",
+        "jacdac-distance": "github:microsoft/pxt-jacdac/distance#v1.9.23"
     },
     "files": [
         "README.md",
@@ -21,5 +24,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
