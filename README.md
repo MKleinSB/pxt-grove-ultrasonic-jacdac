@@ -16,8 +16,12 @@ Mit Jacdac werden von einem am rechten Groveport angeschlossenen Grove Ultrasoni
 Falls der Sensor nicht angeschlossen ist, wird ein "digitaler Zwilling" erzeugt, an dem die Entfernung eingegeben werden kann.
 Bei dieser Erweiterung handelt es sich um ein Softwarejacdac. Module die an einem der Jacdacports des Calliope mini 
 angeschlossen werden benötigen nach dem Laden des normalen Jacdac-Pakets keine weitere Software.
-![... in Aktion](https://github.com/pxt-grove-ultrasonic-jacdac/Ultrasonic.jpg)
 
+
+![... in Aktion](https://github.com/MKleinSB/pxt-grove-ultrasonic-jacdac/blob/master/Ultrasonic.jpg)
+
+## Funfact
+Durch das Überarbeiten des Codes konnte ich den Sensor noch etwas genauer programmieren!
 
 #### Metadaten (verwendet für Suche, Rendering)
 
