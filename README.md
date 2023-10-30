@@ -12,7 +12,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
 ## Jacdac am Calliope mini V3
 
-Mit Jacdac werden von einem am rechten Groveport angeschlossenen Grove Ultrasonic Sensor Livedaten per WebUSB übertragen. 
+Mit Jacdac werden von einem am rechten Groveport (A1) angeschlossenen Grove Ultrasonic Sensor Livedaten per WebUSB übertragen. 
 Falls der Sensor nicht angeschlossen ist, wird ein "digitaler Zwilling" erzeugt, an dem die Entfernung eingegeben werden kann.
 Bei dieser Erweiterung handelt es sich um ein Softwarejacdac. Module die an einem der Jacdacports des Calliope mini 
 angeschlossen werden benötigen nach dem Laden des normalen Jacdac-Pakets keine weitere Software.
