@@ -1,6 +1,6 @@
 {
     "name": "pxt-grove-ultrasonic-jacdac",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Jacdac for Grove ultrasonic Sensor at C16",
     "dependencies": {
         "core": "*",
