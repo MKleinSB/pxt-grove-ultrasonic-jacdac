@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.24",
-        "jacdac-distance": "github:microsoft/pxt-jacdac/distance#v1.9.24"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.26",
+        "jacdac-distance": "github:microsoft/pxt-jacdac/distance#v1.9.26"
     },
     "files": [
         "README.md",
@@ -18,7 +18,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "6.0.27",
+        "target": "6.0.28",
         "targetId": "calliopemini"
     },
     "supportedTargets": [
