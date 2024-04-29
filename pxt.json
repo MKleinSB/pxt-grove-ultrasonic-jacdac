@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.27",
-        "jacdac-distance": "github:microsoft/pxt-jacdac/distance#v1.9.27"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
+        "jacdac-distance": "github:microsoft/pxt-jacdac/distance#v1.9.28"
     },
     "files": [
         "README.md",
